@@ -209,7 +209,7 @@ model_fitness_academias/
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/model_fitness_academias
 cd model_fitness_academias
 ```
 
